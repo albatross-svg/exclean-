@@ -1,0 +1,24 @@
+.section {
+  margin: 20px 80px;
+  min-width: 800px;
+  min-height: 500px;
+  border-radius: 10px;
+}
+
+.button {
+  max-width: 20px;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.dashboard {
+  margin-left: 150px;
+  min-height: 200px;
+  max-width: 1200px;
+}
+
+.word {
+  margin-top: 20px;
+  font-size: 40px;
+  margin-left: 80px;
+}
